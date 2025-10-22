@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Irshad
 
-<!--
-**irshaddeveloper011-byte/irshaddeveloper011-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Java & GCP Developer**  
+Building Spring Boot microservices, React dashboards, and cloud-native apps on Google Cloud Platform.  
+Experienced in CI/CD automation (Jenkins, Docker, Kubernetes) and validation-enabled design (21 CFR Part 11 / GxP).
 
-Here are some ideas to get you started:
+##  Tech Stack
+Java | Spring Boot | React JS | SQL | GCP (Pub/Sub, Cloud Run, BigQuery) | Jenkins | Docker | Kubernetes | ServiceNow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Current Focus
+- Deploying microservices on GCP Cloud Run  
+- Automating CI/CD with Jenkins & Docker  
+- Building audit-ready APIs that meet GxP expectations  
+
+[LinkedIn](https://www.linkedin.com/in/fnu-irshad-ahmed-5a55b9242/) • [Resume PDF](https://drive.google.com/file/d/1YourFileID/view) • [Demo App](https://github.com/irshaddeveloper011-byte)
